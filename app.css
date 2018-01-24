@@ -1,0 +1,14 @@
+h1 {
+  font-family: "Arimo", Lora;
+  font-size: 40px;
+  color: #E02843;
+  text-align:center;
+}
+
+header {
+  background-color: #2D17FF;
+  background-image:url("huraches.jpg");
+  padding: 1vw 2em 20vw 2em;
+  background-position: center center;
+  background-size: cover;
+}
